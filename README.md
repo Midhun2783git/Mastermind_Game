@@ -1,4 +1,4 @@
-# f28hs-2022-23-cwk2-sys
+# operating_sys
 
 Coursework 2 in F28HS "Hardware-Software Interface" on Systems Programming in C and ARM Assembler
 
